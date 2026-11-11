@@ -1,5 +1,5 @@
 # calc.py - a tiny calculator module 
-VERSION = "1.0" 
+VERSION = "2.0-beta" 
 def add(a, b): 
 	return a + b 
 def subtract(a, b): 
